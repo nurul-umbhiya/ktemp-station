@@ -1,0 +1,1 @@
+Here be diary of my tinkering with all involved technologies

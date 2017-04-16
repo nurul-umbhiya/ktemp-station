@@ -1,0 +1,1 @@
+Here be common submodule for greater code reuse.
