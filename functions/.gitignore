@@ -1,0 +1,10 @@
+# IntelliJ project files
+.idea
+build
+gen
+
+*.DS_Store
+
+# Exclude JS code since it is generetaed anyway
+functions
+!functions/package.json
